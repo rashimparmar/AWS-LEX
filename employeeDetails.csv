@@ -1,0 +1,11 @@
+Department_id,Employee Id,Employee Name,Salary,Location_id
+10,100,Tom,100,100
+11,101,Jack,200,200
+12,102,Mac,100,300
+13,103,Dan,300,400
+11,104,John,100,100
+14,105,Ray,250,200
+10,106,Linda,350,300
+12,107,Lisa,225,400
+13,108,Brian,175,100
+10,106,Julie,350,300
