@@ -1,0 +1,16 @@
+{
+  "messageVersion": "1.0",
+  "invocationSource": "DialogCodeHook",
+  "sessionAttributes": {},
+  "bot": {
+    "name": "Employee_Query",
+    "alias": "$LATEST",
+    "version": "$LATEST"
+  },
+  "currentIntent": {
+    "name": "ReturnEmployeeName",
+    "slots": {
+      "DepartmentID": "14"
+    }
+  }
+}
